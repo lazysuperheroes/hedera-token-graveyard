@@ -46,7 +46,8 @@
     "cli:admin": "node scripts/cli/admin.js",
     "cli:bury": "node scripts/cli/bury.js",
     "cli:associate": "node scripts/cli/associate.js",
-    "cli:allowance": "node scripts/cli/allowance.js"
+    "cli:allowance": "node scripts/cli/allowance.js",
+    "cli:gas-station": "node scripts/cli/gas-station.js"
   },
   "dependencies": {
     "@hashgraph/sdk": "^2.78.0",
